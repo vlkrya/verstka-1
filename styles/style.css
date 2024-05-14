@@ -87,6 +87,36 @@ blockquote {
     padding: 40px 20px 60px;
 }
 
+.cover {
+    min-height: 258px;
+    padding: 7px 24px 32px 20px;
+    background-image: url(../images/cover.svg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 90% auto;
+}
+
+.cover__title {
+    width: 100%;
+    color: #fff;
+    font-family: 'EB Garamond', serif;
+    font-weight: 400;
+    font-size: 75px;
+    line-height: 1;
+}
+
+.accent-span {
+    display: block;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
 .footer {
     padding: 20px;
 }
