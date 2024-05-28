@@ -1,4 +1,5 @@
 # verstka-1
 
 
-(./assets/screenshot.png)
+![Описание скриншота](./assets/screenshot.png)
+
